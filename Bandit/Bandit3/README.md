@@ -1,1 +1,1 @@
-here
+cat ~/inhere/.hidden
