@@ -37,5 +37,5 @@ T
  
 `mv tempFile tempFile.gz; gunzip tempFile.gz`
 
-This process continues for several more unzips of different filetypes such as bzip, gzip, and tar files. Each one has its own method of being unzipped, but syntax aside the method for solving this problem is outlined above.
+This process continues for several more unzips of different filetypes such as bzip, gzip, and tar files. Each one has its own method of being unzipped, but syntax aside the method for solving this problem is outlined above: rename the file with appropriate extension and perform the appropriate method of unzipping.
 
